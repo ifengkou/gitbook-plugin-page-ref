@@ -1,0 +1,8 @@
+{
+    "name": "gitbook-plugin-page-ref",
+    "version": "0.0.17",
+    "description": "Remove new tag : embed page-ref code-tabs",
+    "engines": {
+        "gitbook": ">1.x.x"
+    }
+}
